@@ -39,6 +39,14 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Utilize o conceito de `box-sizing` e o seletor `+` para centralizar os seus links;
 - Utilize o `after` e o `transition` para aplicar um efeito visual nos links quando o mouse passar por cima.
 
+## Para abrir a app
+
+- Após clonar o app
+- vá ate o arquivo
+- Abra com "code ."
+- Instale os pacotes com "npm install"
+- Inicie com "npm start"
+
 ## :calendar: Entrega
 
 Esse desafio **não precisa ser entregue** e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
