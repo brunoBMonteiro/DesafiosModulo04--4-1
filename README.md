@@ -39,7 +39,7 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Utilize o conceito de `box-sizing` e o seletor `+` para centralizar os seus links;
 - Utilize o `after` e o `transition` para aplicar um efeito visual nos links quando o mouse passar por cima.
 
-## Para abrir a app
+## Para abrir o app
 
 - Após clonar o app
 - vá ate o arquivo
